@@ -1,0 +1,162 @@
+Tiempo de ordenamiento para 1000.txt (Heap Sort): 0.008003 segundos
+Tiempo de ordenamiento para 10000.txt (Heap Sort): 0.048084 segundos
+Tiempo de ordenamiento para 100000.txt (Heap Sort): 0.751072 segundos
+Tiempo de ordenamiento para 2000.txt (Heap Sort): 0.009930 segundos
+Tiempo de ordenamiento para 20000.txt (Heap Sort): 0.131092 segundos
+Tiempo de ordenamiento para 3000.txt (Heap Sort): 0.016004 segundos
+Tiempo de ordenamiento para 30000.txt (Heap Sort): 0.190069 segundos
+Tiempo de ordenamiento para 4000.txt (Heap Sort): 0.020668 segundos
+Tiempo de ordenamiento para 40000.txt (Heap Sort): 0.282604 segundos
+Tiempo de ordenamiento para 500.txt (Heap Sort): 0.000000 segundos
+Tiempo de ordenamiento para 5000.txt (Heap Sort): 0.022941 segundos
+Tiempo de ordenamiento para 50000.txt (Heap Sort): 0.400307 segundos
+Tiempo de ordenamiento para 6000.txt (Heap Sort): 0.030107 segundos
+Tiempo de ordenamiento para 60000.txt (Heap Sort): 0.424450 segundos
+Tiempo de ordenamiento para 7000.txt (Heap Sort): 0.041261 segundos
+Tiempo de ordenamiento para 70000.txt (Heap Sort): 0.501486 segundos
+Tiempo de ordenamiento para 8000.txt (Heap Sort): 0.041224 segundos
+Tiempo de ordenamiento para 80000.txt (Heap Sort): 0.572166 segundos
+Tiempo de ordenamiento para 9000.txt (Heap Sort): 0.034882 segundos
+Tiempo de ordenamiento para 90000.txt (Heap Sort): 0.478676 segundos
+
+Tiempos de Insertion Sort:
+Tiempo de ordenamiento para 100.txt (Insertion Sort): 0.000000 segundos
+Tiempo de ordenamiento para 1000.txt (Insertion Sort): 0.023998 segundos
+Tiempo de ordenamiento para 10000.txt (Insertion Sort): 3.343124 segundos
+Tiempo de ordenamiento para 100000.txt (Insertion Sort): 407.149290 segundos
+Tiempo de ordenamiento para 2000.txt (Insertion Sort): 0.149823 segundos
+Tiempo de ordenamiento para 20000.txt (Insertion Sort): 15.310636 segundos
+Tiempo de ordenamiento para 3000.txt (Insertion Sort): 0.304275 segundos
+Tiempo de ordenamiento para 30000.txt (Insertion Sort): 33.504431 segundos
+Tiempo de ordenamiento para 4000.txt (Insertion Sort): 0.574191 segundos
+Tiempo de ordenamiento para 40000.txt (Insertion Sort): 61.803772 segundos
+Tiempo de ordenamiento para 500.txt (Insertion Sort): 0.005066 segundos
+Tiempo de ordenamiento para 5000.txt (Insertion Sort): 0.901168 segundos
+Tiempo de ordenamiento para 50000.txt (Insertion Sort): 96.149905 segundos
+Tiempo de ordenamiento para 6000.txt (Insertion Sort): 1.260937 segundos
+Tiempo de ordenamiento para 60000.txt (Insertion Sort): 142.182067 segundos
+Tiempo de ordenamiento para 7000.txt (Insertion Sort): 1.928923 segundos
+Tiempo de ordenamiento para 70000.txt (Insertion Sort): 188.938009 segundos
+Tiempo de ordenamiento para 8000.txt (Insertion Sort): 2.218269 segundos
+Tiempo de ordenamiento para 80000.txt (Insertion Sort): 218.530065 segundos
+Tiempo de ordenamiento para 9000.txt (Insertion Sort): 2.096119 segundos
+Tiempo de ordenamiento para 90000.txt (Insertion Sort): 236.145497 segundos
+
+Tiempos de Merge Sort:
+Tiempo de ordenamiento para 100.txt (Merge Sort): 0.000000 segundos
+Tiempo de ordenamiento para 1000.txt (Merge Sort): 0.007999 segundos
+Tiempo de ordenamiento para 10000.txt (Merge Sort): 0.032118 segundos
+Tiempo de ordenamiento para 100000.txt (Merge Sort): 0.429942 segundos
+Tiempo de ordenamiento para 2000.txt (Merge Sort): 0.005642 segundos
+Tiempo de ordenamiento para 20000.txt (Merge Sort): 0.071996 segundos
+Tiempo de ordenamiento para 3000.txt (Merge Sort): 0.008016 segundos
+Tiempo de ordenamiento para 30000.txt (Merge Sort): 0.117075 segundos
+Tiempo de ordenamiento para 4000.txt (Merge Sort): 0.013295 segundos
+Tiempo de ordenamiento para 40000.txt (Merge Sort): 0.153642 segundos
+Tiempo de ordenamiento para 500.txt (Merge Sort): 0.004550 segundos
+Tiempo de ordenamiento para 5000.txt (Merge Sort): 0.021159 segundos
+Tiempo de ordenamiento para 50000.txt (Merge Sort): 0.210024 segundos
+Tiempo de ordenamiento para 6000.txt (Merge Sort): 0.029097 segundos
+Tiempo de ordenamiento para 60000.txt (Merge Sort): 0.252781 segundos
+Tiempo de ordenamiento para 7000.txt (Merge Sort): 0.020176 segundos
+Tiempo de ordenamiento para 70000.txt (Merge Sort): 0.293793 segundos
+Tiempo de ordenamiento para 8000.txt (Merge Sort): 0.023819 segundos
+Tiempo de ordenamiento para 80000.txt (Merge Sort): 0.240449 segundos
+Tiempo de ordenamiento para 9000.txt (Merge Sort): 0.022023 segundos
+Tiempo de ordenamiento para 90000.txt (Merge Sort): 0.277799 segundos
+
+Tiempos de Quick Sort:
+Tiempo de ordenamiento para 100.txt (Quick Sort): 0.000000 segundos
+Tiempo de ordenamiento para 1000.txt (Quick Sort): 0.000000 segundos
+Tiempo de ordenamiento para 10000.txt (Quick Sort): 0.016504 segundos
+Tiempo de ordenamiento para 100000.txt (Quick Sort): 0.150354 segundos
+Tiempo de ordenamiento para 2000.txt (Quick Sort): 0.008209 segundos
+Tiempo de ordenamiento para 20000.txt (Quick Sort): 0.024118 segundos
+Tiempo de ordenamiento para 3000.txt (Quick Sort): 0.008058 segundos
+Tiempo de ordenamiento para 30000.txt (Quick Sort): 0.038180 segundos
+Tiempo de ordenamiento para 4000.txt (Quick Sort): 0.006518 segundos
+Tiempo de ordenamiento para 40000.txt (Quick Sort): 0.052007 segundos
+Tiempo de ordenamiento para 500.txt (Quick Sort): 0.000000 segundos
+Tiempo de ordenamiento para 5000.txt (Quick Sort): 0.004543 segundos
+Tiempo de ordenamiento para 50000.txt (Quick Sort): 0.069793 segundos
+Tiempo de ordenamiento para 6000.txt (Quick Sort): 0.011907 segundos
+Tiempo de ordenamiento para 60000.txt (Quick Sort): 0.086989 segundos
+Tiempo de ordenamiento para 7000.txt (Quick Sort): 0.016306 segundos
+Tiempo de ordenamiento para 70000.txt (Quick Sort): 0.089691 segundos
+Tiempo de ordenamiento para 8000.txt (Quick Sort): 0.016234 segundos
+Tiempo de ordenamiento para 80000.txt (Quick Sort): 0.085635 segundos
+Tiempo de ordenamiento para 9000.txt (Quick Sort): 0.010522 segundos
+Tiempo de ordenamiento para 90000.txt (Quick Sort): 0.105802 segundos
+
+Tiempos de Selection Sort:
+Tiempo de ordenamiento para 100.txt (Selection Sort): 0.000000 segundos
+Tiempo de ordenamiento para 1000.txt (Selection Sort): 0.024062 segundos
+Tiempo de ordenamiento para 10000.txt (Selection Sort): 2.621735 segundos
+Tiempo de ordenamiento para 100000.txt (Selection Sort): 302.655929 segundos
+Tiempo de ordenamiento para 2000.txt (Selection Sort): 0.121142 segundos
+Tiempo de ordenamiento para 20000.txt (Selection Sort): 11.220798 segundos
+Tiempo de ordenamiento para 3000.txt (Selection Sort): 0.272116 segundos
+Tiempo de ordenamiento para 30000.txt (Selection Sort): 26.899066 segundos
+Tiempo de ordenamiento para 40000.txt (Selection Sort): 48.149431 segundos
+Tiempo de ordenamiento para 500.txt (Selection Sort): 0.003539 segundos
+Tiempo de ordenamiento para 5000.txt (Selection Sort): 0.724041 segundos
+Tiempo de ordenamiento para 50000.txt (Selection Sort): 74.350325 segundos
+Tiempo de ordenamiento para 6000.txt (Selection Sort): 1.041322 segundos
+Tiempo de ordenamiento para 60000.txt (Selection Sort): 113.037370 segundos
+Tiempo de ordenamiento para 7000.txt (Selection Sort): 1.379631 segundos
+Tiempo de ordenamiento para 70000.txt (Selection Sort): 148.796776 segundos
+Tiempo de ordenamiento para 8000.txt (Selection Sort): 1.748983 segundos
+Tiempo de ordenamiento para 80000.txt (Selection Sort): 136.365295 segundos
+Tiempo de ordenamiento para 9000.txt (Selection Sort): 1.600389 segundos
+Tiempo de ordenamiento para 90000.txt (Selection Sort): 174.405588 segundos
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+ *  History restored 
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+
+
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
+
+
+
+PS C:\Users\TOTI\Desktop\python ordenamientos>
+
